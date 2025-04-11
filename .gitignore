@@ -1,0 +1,14 @@
+*.log
+.Xil/*
+*.jou
+*.str
+*.wdb
+*.pb
+xsim.dir/*
+*.bit
+*.dcp
+*.rpt
+.nfs*
+clockInfo.txt
+*.mem
+xvlog.pb
